@@ -1,4 +1,5 @@
-Getting Started
+## Getting Started ##
+---------------
 
 To get started with OMNI sources to build Samsung devices, you'll need to get familiar with Git and Repo.
 
