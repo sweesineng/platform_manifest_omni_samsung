@@ -17,6 +17,9 @@ echo "export USE_CCACHE=1" >> ~/.bashrc
  ~/android/omni/prebuilts/misc/linux-x86/ccache/ccache -M 25G
 ```
 
-Then to build:
-
- cd <source-dir>; . build/envsetup.sh; lunch omni_<device>-eng; mka recoveryimage
+Then to build, ex Samsung GT-N7000
+```bash
+ . build/envsetup.sh
+ breakfast n7000
+ brunch n7000
+```
