@@ -5,7 +5,7 @@ To get started with OMNI sources to build Samsung devices, you'll need to get fa
 
 To initialize your local repository using the OMNIROM trees to build Samsung, use a command like this:
 ```bash
-repo init -u git://github.com/sweesineng/platform_manifest_omni_samsung.git -b <<branch>>
+repo init -u git://github.com/sweesineng/platform_manifest_omni_samsung.git -b android-5.1
 ```
 Then to sync up:
 ```bash
